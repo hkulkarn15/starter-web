@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harish Kulkarni harry.ashok@gmail.com @harryashok
 
 # THANKS
 
